@@ -11,9 +11,10 @@ I'm a passionate developer who loves creating innovative solutions and learning 
 
 ## 🌱 Currently Learning
 - Advanced React patterns and best practices
-- Cloud technologies (AWS/Azure)
+- App development (Flutter)
 - System design and architecture
 - Blockchain (wed3)
+  
 
 ## 🎯 Goals
 - Contribute to open-source projects
