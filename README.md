@@ -32,3 +32,6 @@ Feel free to reach out to me at "nwankwoala3@gmail.com" for collaboration opport
 
 ---
 ⭐️ From [nuel232](https://github.com/nuel232) 
+
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=nuel232&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
