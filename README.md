@@ -33,4 +33,4 @@ Feel free to reach out to me at "nwankwoala3@gmail.com" for collaboration opport
 
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=nuel232&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=nue232&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
