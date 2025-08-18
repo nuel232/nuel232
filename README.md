@@ -9,7 +9,7 @@ I'm a passionate developer who loves creating innovative solutions and learning 
 ## 🌱 Currently Learning
 - App development (Flutter)
 - System design and architecture
-- Blockchain (wed3)
+
   
 
 ## 🎯 Goals
